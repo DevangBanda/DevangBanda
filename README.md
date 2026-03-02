@@ -14,6 +14,10 @@ Currently focused on:
 - Hardware–Software Integration
 
 I like understanding systems from silicon to cloud.
+
+Fun Fact about me: 
+- I can fix your computer — and probably your electrical wiring too.
+- Hobbies : Gaming, Vibe-coding, Gym, Hiking
 <!--
 **DevangBanda/DevangBanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
