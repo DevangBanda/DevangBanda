@@ -1,6 +1,6 @@
 ## Hey, I am Devang 👋
 
-I'm a Computer Science student focused on building production-minded systems with hands-om experience in Electrical Engineering.
+I'm a Computer Science student focused on building production-minded systems with hands-on experience in Electrical Engineering.
 
 I’ve worked on mixed-signal systems, C++ behavioral modeling, register map integration, and verification workflows in Linux environments. 
 My work bridges hardware-level system behavior with scalable backend and cloud applications.
