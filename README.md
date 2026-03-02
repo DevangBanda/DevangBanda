@@ -7,6 +7,9 @@ My work bridges hardware-level system behavior with scalable backend and cloud a
 
 I enjoy working across the stack — from low-level C/C++ networking and multithreaded servers to full-stack production ready applications.
 
+LAnguages I work with:
+• C • C++ • Java • Python • JS
+
 Currently focused on:
 - Backend Engineering
 - Distributed Systems
