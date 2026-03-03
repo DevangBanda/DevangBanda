@@ -14,6 +14,8 @@ Currently focused on:
 - Backend Engineering
 - Distributed Systems
 - Cloud Architecture (AWS)
+- System Design
+- System Programming
 - Hardware–Software Integration
 
 I like understanding systems from silicon to cloud.
